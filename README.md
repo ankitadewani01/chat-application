@@ -1,4 +1,3 @@
-````markdown
 # Chat Application
 
 A real-time chat application built using **Node.js**, **Express**, **Socket.io**, and **React.js**. Users can chat instantly in private or group rooms with a responsive and user-friendly interface.
@@ -32,7 +31,7 @@ A real-time chat application built using **Node.js**, **Express**, **Socket.io**
 
 ```bash
 git clone https://github.com/ankitadewani01/Chat-App.git
-````
+
 
 2. Navigate to the backend and install dependencies:
 
